@@ -1,0 +1,5 @@
+exportPattern("^[[:alpha:]]+")
+import("dplyr")
+importFrom("stats", "density", "dnorm", "rbinom", "rchisq", "rnorm","runif", "var")
+#importFrom("viridis","scale_color_viridic_c")
+
